@@ -14,7 +14,7 @@
 
 syntax = "proto3";
 
-package helloworld;
+package io.grpc.examples.helloworld;
 
 service Greeter {
   // unary call
